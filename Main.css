@@ -1,0 +1,38 @@
+body {
+  background-color: #ccffcc;
+}
+
+#Loading {
+  width: 200px;
+  display: none;
+}
+
+#T {
+  font-size: 14pt;
+}
+
+#con {
+  margin-top: 50px;
+  border-radius: 15px;
+}
+
+#books {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  width: 350px;
+}
+
+.centerize {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.text {
+  margin-top: 15px;
+}
+
+.h {
+  height: 205px;
+}
